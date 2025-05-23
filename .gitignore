@@ -1,0 +1,17 @@
+# 1. Rust/Cargo build artifacts
+/target/
+
+# 2. Editor / IDE files
+.vscode/
+.idea/
+
+# 3. macOS Finder
+.DS_Store
+
+# 4. (Optional) Backup files
+*~
+*.swp
+
+# 5. (DO NOT ignore Cargo.lock for a binary crate)
+# /Cargo.lock    ← comment out or delete this line
+
